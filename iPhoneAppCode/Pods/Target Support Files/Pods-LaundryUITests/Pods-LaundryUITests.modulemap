@@ -1,0 +1,6 @@
+framework module Pods_LaundryUITests {
+  umbrella header "Pods-LaundryUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
